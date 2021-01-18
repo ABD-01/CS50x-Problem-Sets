@@ -41,8 +41,8 @@
   2. [Houses](https://cs50.harvard.edu/x/2020/psets/7/houses/)
   
   * ## Tracks-Web
-  1. Homepage
-  2. [Finance](https://github.com/ABD-01/CS50-Problem-Sets/tree/tracks-web)
+  1. [Homepage](http://abd-01.github.io/)
+  ## 2. [Finance](https://cs50-web-tracks-finance.herokuapp.com/)
   
   * ## Project
     - [py2048](https://github.com/ABD-01/py2048)
