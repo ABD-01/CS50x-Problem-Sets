@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<!-- Demonstrates alert with onsubmit -->
+
+<html lang="en">
+    <head>
+        <title>
+            Alert
+        </title>
+        <script>
+            function greet()
+            {
+                alert('Hello!');
+            }
+        </script>
+    </head>
+    <body>
+        <form onsubmit="greet(); return false;">
+            <input type="submit">
+        </form>
+    </body>
+</html>

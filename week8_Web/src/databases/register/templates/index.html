@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <h1>Registrants</h1>
+    <ul>
+        {% for row in rows %}
+            <li>{{ row["name"] }} ({{ row["email"] }})</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/register">Register</a>
+{% endblock %}
