@@ -42,7 +42,7 @@
   
   * ## Tracks-Web
   1. Homepage
-  2. [Finance](https://github.com/ABD-01/CS50-tracks-web-finance)
+  2. [Finance](https://github.com/ABD-01/CS50-Problem-Sets/tree/tracks-web)
   
   * ## Project
-    - [py2028](https://github.com/ABD-01/py2048)
+    - [py2048](https://github.com/ABD-01/py2048)
