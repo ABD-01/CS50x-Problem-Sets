@@ -42,7 +42,7 @@
   
   * ## Tracks-Web
   1. [Homepage](http://abd-01.github.io/)
-  ## 2. [Finance](https://cs50-web-tracks-finance.herokuapp.com/)
+  ### 2. [Finance](https://github.com/ABD-01/CS50-tracks-web-finance)
   
   * ## Project
     - [py2048](https://github.com/ABD-01/py2048)
