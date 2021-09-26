@@ -1,0 +1,3 @@
+[submodule "py2048"]
+	path = py2048
+	url = git@github.com:ABD-01/py2048.git
